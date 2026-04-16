@@ -22,3 +22,4 @@ GROUP BY exam_id;
 SELECT COUNT(department_id), department_id
 FROM degrees
 GROUP BY department_id;
+
